@@ -17,7 +17,7 @@ public class advisory {
     public static void main(String[] args) {
         Scanner UserBool= new Scanner(System.in);
         boolean choice = false;
-        boolean test = true;
+
 
         while (choice == false) {
               greeting();
